@@ -1,2 +1,3 @@
-👋 Hi, I’m @lauraqueen411! I'm currently a PhD student at Victoria University of Wellington in New Zealand, working on regional climate change detection and attribution.
-I use climate models and observations to understand if, and to what extend, human-caused climate change has caused changes in the earth system.
+Hi, I'm Laura Queen.
+
+With PhD studies in climate science and a background in computer science and mathematics, I love wielding the power of statistics, observations, and climate model simulations to address challenging and important questions about climate change. My research spans the topics of river flooding, wildfire weather, water availability, and extreme weather in the realms of regional climate change detection and attribution and event attribution. Recently, I have been exploring the application of machine learning methods for the emulation of dynamical downscaling to produce ensembles of climate model simulations at the resolution needed to study local climate impacts.
